@@ -1,16 +1,4 @@
-I'll create a comprehensive README file for your week 2 lab one content. Let me first explore the notebooks to understand what's covered.   
 
-Read [](file:///c%3A/Users/AL%20NAFIO/Downloads/lab%20taks/week%20two%20lab%20one)
-
-Read [](file:///c%3A/Users/AL%20NAFIO/Downloads/lab%20taks/week%20two%20lab%20one/pandas_merge-20260706T132215Z-3-001/pandas_merge)
-
-Read [](file:///c%3A/Users/AL%20NAFIO/Downloads/lab%20taks/week%20two%20lab%20one/pandas_concat-20260706T132208Z-3-001/pandas_concat)
-
-Now I'll create a professional README file for your week 2 pandas and numpy lab: 
-
-Created [](file:///c%3A/Users/AL%20NAFIO/Downloads/lab%20taks/week%20two%20lab%20one/README.md)
-
-Perfect! I've created a comprehensive **README.md** file for your week 2 lab one content. Here's what's included:
 
 ## 📄 README Features:
 
